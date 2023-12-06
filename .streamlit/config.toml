@@ -10,3 +10,8 @@ level = "info"
 # https://docs.python.org/2.6/library/logging.html#formatter-objects
 # Default: "%(asctime)s %(message)s"
 messageFormat = "%(asctime)s %(levelname)s: %(message)s"
+
+[theme]
+base="dark"
+primaryColor="#524B44"
+backgroundColor="#37332e"
