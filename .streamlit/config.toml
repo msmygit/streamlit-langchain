@@ -15,3 +15,6 @@ messageFormat = "%(asctime)s %(levelname)s: %(message)s"
 base="dark"
 primaryColor="#524B44"
 backgroundColor="#37332e"
+
+[browser]
+gatherUsageStats = false
