@@ -3,8 +3,6 @@ streamlit
 openai
 langchain
 tiktoken
-cassandra-driver
-cassio
 pypdf
 pandas
 astrapy
